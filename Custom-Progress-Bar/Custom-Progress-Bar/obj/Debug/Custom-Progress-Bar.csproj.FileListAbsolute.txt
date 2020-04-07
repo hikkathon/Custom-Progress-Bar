@@ -1,0 +1,9 @@
+C:\Users\MyPC1\Documents\hikkathon\github\Custom-Progress-Bar\Custom-Progress-Bar\Custom-Progress-Bar\bin\Debug\Custom-Progress-Bar.exe.config
+C:\Users\MyPC1\Documents\hikkathon\github\Custom-Progress-Bar\Custom-Progress-Bar\Custom-Progress-Bar\bin\Debug\Custom-Progress-Bar.exe
+C:\Users\MyPC1\Documents\hikkathon\github\Custom-Progress-Bar\Custom-Progress-Bar\Custom-Progress-Bar\bin\Debug\Custom-Progress-Bar.pdb
+C:\Users\MyPC1\Documents\hikkathon\github\Custom-Progress-Bar\Custom-Progress-Bar\Custom-Progress-Bar\obj\Debug\Custom-Progress-Bar.csprojAssemblyReference.cache
+C:\Users\MyPC1\Documents\hikkathon\github\Custom-Progress-Bar\Custom-Progress-Bar\Custom-Progress-Bar\obj\Debug\Custom_Progress_Bar.Form1.resources
+C:\Users\MyPC1\Documents\hikkathon\github\Custom-Progress-Bar\Custom-Progress-Bar\Custom-Progress-Bar\obj\Debug\Custom_Progress_Bar.Properties.Resources.resources
+C:\Users\MyPC1\Documents\hikkathon\github\Custom-Progress-Bar\Custom-Progress-Bar\Custom-Progress-Bar\obj\Debug\Custom-Progress-Bar.csproj.GenerateResource.cache
+C:\Users\MyPC1\Documents\hikkathon\github\Custom-Progress-Bar\Custom-Progress-Bar\Custom-Progress-Bar\obj\Debug\Custom-Progress-Bar.exe
+C:\Users\MyPC1\Documents\hikkathon\github\Custom-Progress-Bar\Custom-Progress-Bar\Custom-Progress-Bar\obj\Debug\Custom-Progress-Bar.pdb
